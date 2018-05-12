@@ -16,4 +16,4 @@ profiles:
   flickr:     		  
 ---
 
-Pavel Bulíček (1. května 1988, Hradec Králové) je předseda sdružení Pirátů v Královéhradeckém kraji. Povoláním je softwarový konzultant. Vystudoval Univerzitu v Hradci Králové. Je velitelem družstva požární ochrany Sboru dobrovolných hasičů Březhrad. 
+Pavel Bulíček (1. května 1988, Hradec Králové) je předseda sdružení Pirátů v Královéhradeckém kraji. Povoláním je softwarový konzultant. Vystudoval Univerzitu v Hradci Králové. Je velitelem družstva požární ochrany Sboru dobrovolných hasičů Březhrad.
